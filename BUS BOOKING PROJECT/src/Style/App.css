@@ -1,0 +1,15 @@
+/* seat {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    cursor: pointer;
+    text-align: center;
+    line-height: 30px;
+  }
+  
+  .seat.selected {
+    background-color: #4caf50;
+    color: white;
+  } */
